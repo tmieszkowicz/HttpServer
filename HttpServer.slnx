@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/cmd/">
+    <Project Path="cmd/HttpServer/HttpServer.csproj" />
+    <Project Path="cmd/TcpListener/TcpListener.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Internal/Internal.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Internal.Tests/Internal.Tests.csproj" />
+  </Folder>
+</Solution>
