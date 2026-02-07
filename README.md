@@ -4,8 +4,6 @@ A minimal HTTP/1.1 server written in C#, inspired by Learn the HTTP Protocol fro
 
 Runs on port 13000 by default
 
----
-
 ## Endpoints
 
 ### `/`
